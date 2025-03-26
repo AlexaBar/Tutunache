@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Montecristo No. 2",
+    "category": "Cigars",
+    "description": "A classic Cuban cigar with smooth draw and rich flavor.",
+    "image": "/assets/Highlights/cigar-montecristo.png",
+    "price": 12.99
+  },
+  {
+    "id": 2,
+    "name": "Marlboro Red",
+    "category": "Cigarettes",
+    "description": "Strong full-bodied American cigarettes, iconic and bold.",
+    "image": "/assets/Highlights/marlboro-red.png",
+    "price": 8.49
+  },
+  {
+    "id": 3,
+    "name": "Juul Pod - Mint",
+    "category": "Vapes",
+    "description": "Popular vape pod with refreshing mint flavor.",
+    "image": "/assets/Highlights/juul-mint.png",
+    "price": 5.99
+  },
+  {
+    "id": 4,
+    "name": "Al Fakher - Double Apple",
+    "category": "Hookahs",
+    "description": "Premium hookah tobacco with double apple flavor.",
+    "image": "/assets/Highlights/al-fakher-apples.png",
+    "price": 14.50
+  },
+  {
+    "id": 5,
+    "name": "RAW Classic Rolling Papers",
+    "category": "Rolling Papers",
+    "description": "All-natural unrefined rolling papers from RAW.",
+    "image": "/assets/Highlights/raw-papers.png",
+    "price": 2.99
+  },
+  {
+    "id": 6,
+    "name": "Copenhagen Wintergreen",
+    "category": "Snuff",
+    "description": "Moist snuff with wintergreen flavor, bold and fresh.",
+    "image": "/assets/Highlights/copenhagen-snuff.png",
+    "price": 4.25
+  },
+  {
+    "id": 7,
+    "name": "Clipper Jet Lighter",
+    "category": "Accessories",
+    "description": "Refillable jet lighter with adjustable flame.",
+    "image": "/assets/Highlights/clipper-lighter.png",
+    "price": 3.50
+  }
+]
